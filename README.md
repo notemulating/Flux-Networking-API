@@ -1,2 +1,2 @@
 # Flux-Networking-API
-The Official Flux Networking API Made By Sinner
+The Official Flux Networking API made by @notemulating
